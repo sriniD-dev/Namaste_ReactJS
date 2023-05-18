@@ -13,10 +13,10 @@ rootEle.appendChild(ele);
 // creating a react app with basic html
 // step1:: through CDN
 
-const reactEle = React.createElement('h1', {}, 'hello world from react');
+// const reactEle = React.createElement('h1', {}, 'hello world from react');
 
-console.log(reactEle);
+// console.log(reactEle);
 
-const rootreact = ReactDOM.createRoot(document.getElementById('root'));
+// const rootreact = ReactDOM.createRoot(document.getElementById('root'));
 
-rootreact.render(reactEle);
+// rootreact.render(reactEle);

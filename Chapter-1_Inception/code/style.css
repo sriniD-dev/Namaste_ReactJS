@@ -1,0 +1,23 @@
+#heading {
+	background-color: aqua;
+	color: brown;
+	border: 1px solid black;
+	border-radius: 10%;
+	width: 100%;
+}
+
+.bg-color-green {
+	background-color: green;
+	color: antiquewhite;
+	width: fit-content;
+	padding: 4px;
+	border-radius: 2%;
+}
+
+.bg-color-red {
+	background-color: rgb(128, 73, 0);
+	color: antiquewhite;
+	width: fit-content;
+	padding: 4px;
+	border-radius: 2%;
+}
