@@ -1,0 +1,23 @@
+{
+  "name": "namaste_reactjs",
+  "version": "1.0.0",
+  "description": "namaste react course by akshay saini",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sriniD-dev/Namaste_ReactJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sriniD-dev/Namaste_ReactJS/issues"
+  },
+  "homepage": "https://github.com/sriniD-dev/Namaste_ReactJS#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
+
