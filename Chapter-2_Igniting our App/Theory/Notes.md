@@ -28,5 +28,9 @@ what is transitive dependancies?
  No as node_modules are bulk in size and its not necessary to add node_modules as we had package.json and package-lock.json files which we can able to recreate  the nodemoduls
 
  what is gitignore?
- the filenames under this .gitignore are obmitted in git repo when publishing to github
+ the filenames under this .gitignore are obmitted in git repo when publishing to github.
+
+ what is npm?
+ its a packag manager that is useful for managing dependances to work in a js runtime environment.
+ 
  
