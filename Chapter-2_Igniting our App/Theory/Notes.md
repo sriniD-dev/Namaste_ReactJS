@@ -71,3 +71,9 @@ npx parcel build <filename.html>
 it popup the error for main -->Did you mean <filename.html> Add an taget in package.json to neglect script file.Then it creates a bundle file with index.html in "dist/" folder
 remove the "main" from package.json
 
+why browserlist?
+Browserlist- defines for what major versions the frontend app has to be supported.
+The default value is ">0.3% ,last 2 versions , not dead"
+">0.3" --> 91.1% coverage globally
+last 2 versions --> supports all major released/stable versions of  browsers
+not dead-->eliminates the dead versions of browsers

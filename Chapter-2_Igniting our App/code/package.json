@@ -7,8 +7,9 @@
 		"main": false
 	},
 	"scripts": {
-		"test": "jest",
-		"start": "react scripts start"
+		"start": "parcel index.html",
+		"build": "parcel  build index.html",
+		"test": "jest"
 	},
 	"repository": {
 		"type": "git",
