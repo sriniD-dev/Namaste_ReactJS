@@ -1,0 +1,26 @@
+#header {
+	height: 100px;
+	display: flex;
+	width: 100%;
+	justify-content: space-between;
+	align-items: center;
+	margin: 10px 5px;
+	border: 1px solid black;
+	border-radius: 3px;
+}
+.logo-container .logo {
+	width: 50px;
+}
+
+.nav-items > ul {
+	display: flex;
+	/* flex-grow: 3; */
+	padding: 5px 10px;
+}
+
+.nav-links > li {
+	list-style-type: none;
+	/* margin-right: 5px; */
+	padding: 5px;
+	margin: 10px;
+}
